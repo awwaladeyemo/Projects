@@ -10,4 +10,23 @@
 | 3:00PM        | infra meeting   | meeting with IT infrastructure team on project|
 | 3:30PM        | help co-worker  | Help co-worker on task                        |
 | 4:45PM-5:00PM | time tracking   | Time logging                                  |    
+<<<<<<< HEAD
 | 8:00PM-9:00PM | work item 321   | Fix bug found in testing                      
+=======
+| 8:00PM-9:00PM | work item 321   | Fix bug found in testing                      |
+
+
+Duration │ Task            │ Description                                     │
+├──────────┼─────────────────┼─────────────────────────────────────────────────┤
+│ 00:15:00 │ e-mails         │ Check up and answer e-mails for the day         │
+│ 05:00:00 │ work item 123   │ Worked on fixing production issue on form XYZ   │
+│          │                 │ Unit test production issue                      │
+│          │                 │ complete fix, and check in                      │
+│ 00:15:00 │ team ceremonies │ Daily stand up                                  │
+│ 01:00:00 │ lunch           │ Eat lunch                                       │
+│ 00:30:00 │ lead meeting    │ Meeting with leads on the team.                 │
+│ 00:30:00 │ infra meeting   │ meeting with IT infrastructure team on project  │
+│ 01:15:00 │ help co-worker  │ Help co-worker on task                          │
+│ 00:15:00 │ time tracking   │ Time logging                                    │
+│ 01:00:00 │ work item 321   │ Fix bug found in testing                        
+>>>>>>> 8416f2bfb302ae45ba1306016db59314d80cbd68
