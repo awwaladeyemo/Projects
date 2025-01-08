@@ -13,7 +13,6 @@
 | 8:00PM-9:00PM | work item 321   | Fix bug found in testing                      |
 
 
-
 Duration │ Task            │ Description                                     │
 ├──────────┼─────────────────┼─────────────────────────────────────────────────┤
 │ 00:15:00 │ e-mails         │ Check up and answer e-mails for the day         │
@@ -26,4 +25,4 @@ Duration │ Task            │ Description                                    
 │ 00:30:00 │ infra meeting   │ meeting with IT infrastructure team on project  │
 │ 01:15:00 │ help co-worker  │ Help co-worker on task                          │
 │ 00:15:00 │ time tracking   │ Time logging                                    │
-│ 01:00:00 │ work item 321   │ Fix bug found in testing
+│ 01:00:00 │ work item 321   │ Fix bug found in testing                        
